@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    ***************************************************************************
+    ***************************************************************************
+    ******************** Note : Font name is Poppins **************************
+    ***************************************************************************
+    ***************************************************************************
+    -->
+    <style name="BoldFont1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_1ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_2ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont3" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_3ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont4" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_4ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont5" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_5ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont6" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_6ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont7" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont8" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_8ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont9" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont10" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont11" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont12" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont13" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont14" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont15" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_15ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont16" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont17" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont18" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_18ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont19" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_19ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont20" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_20ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont21" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_21ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont22" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_22ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont23" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_23ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont24" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_24ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont25" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_25ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont26" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_26ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont27" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_27ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont28" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_28ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont29" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_29ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont30" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_30ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont31" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_31ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont32" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_32ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont33" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_33ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont34" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_34ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont35" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_35ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont36" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_36ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont37" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_37ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont38" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_38ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont39" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_39ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont40" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_40ssp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <!-- Text Size With Font Montserrat Medium -->
+    <style name="MediumFont1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_1ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_2ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont3" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_3ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont4" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_4ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont5" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_5ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont6" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_6ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont7" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont8" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_8ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont9" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont10" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont11" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont12" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont13" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont14" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont15" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_15ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont16" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont17" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont18" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_18ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont19" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_19ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont20" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_20ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont21" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_21ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont22" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_22ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont23" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_23ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont24" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_24ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont25" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_25ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont26" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_26ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont27" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_27ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont28" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_28ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont29" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_29ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont30" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_30ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont31" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_31ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont32" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_32ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont33" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_33ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont34" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_34ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont35" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_35ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont36" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_36ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont37" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_37ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont38" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_38ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont39" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_39ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont40" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_40ssp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="RegularFont1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_1ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_2ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont3" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_3ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont4" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_4ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont5" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_5ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont6" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_6ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont7" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont8" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_8ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont9" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont10" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont11" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont12" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont13" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont14" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont15" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_15ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont16" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont17" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont18" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_18ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont19" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_19ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont20" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_20ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont21" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_21ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont22" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_22ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont23" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_23ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont24" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_24ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont25" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_25ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont26" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_26ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont27" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_27ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont28" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_28ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont29" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_29ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont30" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_30ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont31" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_31ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont32" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_32ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont33" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_33ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont34" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_34ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont35" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_35ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont36" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_36ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont37" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_37ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont38" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_38ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont39" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_39ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont40" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_40ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="LightFont1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_1ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_2ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont3" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_3ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont4" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_4ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont5" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_5ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont6" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_6ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont7" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont8" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_8ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont9" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont10" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont11" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont12" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont13" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont14" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont15" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_15ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont16" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont17" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont18" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_18ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont19" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_19ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont20" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_20ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont21" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_21ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont22" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_22ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont23" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_23ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont24" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_24ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont25" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_25ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont26" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_26ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont27" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_27ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont28" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_28ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont29" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_29ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont30" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_30ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont31" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_31ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont32" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_32ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont33" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_33ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont34" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_34ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont35" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_35ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont36" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_36ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont37" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_37ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont38" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_38ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont39" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_39ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont40" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_40ssp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="ThinFont1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_1ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_2ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont3" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_3ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont4" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_4ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont5" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_5ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont6" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_6ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont7" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont8" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_8ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont9" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont10" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont11" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont12" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont13" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont14" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont15" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_15ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont16" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont17" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont18" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_18ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont19" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_19ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont20" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_20ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont21" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_21ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont22" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_22ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont23" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_23ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont24" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_24ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont25" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_25ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont26" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_26ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont27" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_27ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFon28" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_28ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont29" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_29ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont30" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_30ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont31" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_31ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont32" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_32ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont33" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_33ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont34" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_34ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont35" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_35ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont36" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_36ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont37" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_37ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFon38" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_38ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont39" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_39ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont40" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/_40ssp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+</resources>
