@@ -1,25 +1,31 @@
 package com.recyclerview.using.kotlin.adapter
 
+import android.R.attr.data
+import android.annotation.SuppressLint
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
-import android.widget.TextView
+import android.widget.*
 import androidx.recyclerview.widget.RecyclerView
 import com.recyclerview.using.kotlin.R
 import com.recyclerview.using.kotlin.model.Product
 
-class ProductRecyclerViewAdapter(private val context: Context, private var items: ArrayList<Product>) : RecyclerView.Adapter<ProductRecyclerViewAdapter.ItemViewHolder>() {
+
+class ProductRecyclerViewAdapter(val context: Context, var items: ArrayList<Product>) : RecyclerView.Adapter<ProductRecyclerViewAdapter.ItemViewHolder>() , Filterable {
+
+    private var filterItems: ArrayList<Product> = items
 
     private var itemClickListener: ItemClickListener? = null
     private var itemLongClickListener: ItemLongClickListener? = null
 
+    @SuppressLint("NotifyDataSetChanged")
     fun add(items: ArrayList<Product>) {
         this.items.addAll(items)
         notifyDataSetChanged()
     }
 
+    @SuppressLint("NotifyDataSetChanged")
     fun replace(items: ArrayList<Product>) {
         items.run {
             clear()
@@ -64,8 +70,8 @@ class ProductRecyclerViewAdapter(private val context: Context, private var items
         View.OnClickListener, View.OnLongClickListener {
         private val productImageView: ImageView = itemView.findViewById(R.id.productImageView)
         private val productNameTextView: TextView = itemView.findViewById(R.id.productNameTextView)
-        private val productPriceTextView: TextView =
-            itemView.findViewById(R.id.productPriceTextView)
+        private val productPriceTextView: TextView = itemView.findViewById(R.id.productPriceTextView)
+        private val checkBox: CheckBox = itemView.findViewById(R.id.checkBox)
 
         init {
             itemView.setOnClickListener(this)
@@ -75,6 +81,7 @@ class ProductRecyclerViewAdapter(private val context: Context, private var items
         fun bindItem(items: Product) {
             productNameTextView.text = items.name
             productPriceTextView.text = items.price.toString()
+            checkBox.isChecked = items.isSelected
         }
 
         override fun onClick(view: View?) {
@@ -108,5 +115,43 @@ class ProductRecyclerViewAdapter(private val context: Context, private var items
 
     fun setItemLongClickListener(listener: ItemLongClickListener) {
         this.itemLongClickListener = listener
+    }
+
+    @SuppressLint("NotifyDataSetChanged")
+    fun checkCheckBox(position: Int, item: Product) {
+        items[position] = item
+        notifyDataSetChanged()
+        notifyItemChanged(position)
+    }
+
+    @SuppressLint("NotifyDataSetChanged")
+    override fun getFilter(): Filter {
+        return object: Filter() {
+            override fun performFiltering(charsequence: CharSequence?): FilterResults {
+                val filterResults = FilterResults()
+                if(charsequence == null || charsequence.length < 0){
+                    filterResults.count = filterItems.size
+                    filterResults.values = filterItems
+                }else{
+                    val searchCharSequence = charsequence.toString().lowercase()
+                    val itemModal = ArrayList<Product>()
+
+                    for(item in filterItems){
+                        if(item.name.lowercase().contains(searchCharSequence) || item.name!!.lowercase().contains(searchCharSequence)){
+                            itemModal.add(item)
+                        }
+                    }
+
+                    filterResults.count = itemModal.size
+                    filterResults.values = itemModal
+                }
+                return filterResults;
+            }
+
+            override fun publishResults(charsequence: CharSequence?, filterResults: FilterResults?) {
+                items = filterResults?.values as ArrayList<Product>
+                notifyDataSetChanged()
+            }
+        }
     }
 }

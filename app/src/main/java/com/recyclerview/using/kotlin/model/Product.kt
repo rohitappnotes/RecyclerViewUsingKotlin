@@ -1,7 +1,9 @@
 package com.recyclerview.using.kotlin.model
 
 data class Product(
-    val imageUrl: String,
-    val name: String,
-    val price: Int
+    var id: String,
+    var image: String,
+    var name: String,
+    var price: Int,
+    var isSelected: Boolean = false,
 )
